@@ -1,5 +1,5 @@
 # Latihan-VCS
-Cara Menggunakan GIT
+1. Cara Menggunakan GIT
 Unduh File GIT
 Install GIT
 Tentukan Lokasi Instalasi GIT
